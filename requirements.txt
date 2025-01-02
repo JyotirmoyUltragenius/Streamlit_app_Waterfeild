@@ -1,4 +1,5 @@
 streamlit
+easyocr
 openai==0.28.0
 Pillow==10.0.0
 
