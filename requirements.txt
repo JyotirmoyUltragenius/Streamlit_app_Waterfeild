@@ -1,5 +1,5 @@
 streamlit
 easyocr
-openai==0.28.0
+openai
 Pillow==10.0.0
 
