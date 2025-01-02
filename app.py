@@ -6,7 +6,7 @@ from PIL import Image
 import easyocr
 import os
 
-openai.api_key = st.secrets["API_KEY"]
+api_key = st.secrets["API_KEY"]
 if api_key:
     print(f"API Key: {api_key}")
     # Use the API key
